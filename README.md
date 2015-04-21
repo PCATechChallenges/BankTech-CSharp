@@ -4,7 +4,7 @@ Congratulations!
 
 You’ve been chosen as one the latest Technical Contractors for Bank Tech Anywhere Ltd! We’ve heard great things about you!
 
-You will be responsible for building rapid prototypes of various programs (in Python Visual Basic or C#), fulfilling the needs of different teams across our banking company. The backlog is constantly growing to keep us at the forefront of the industry, so your immediate priorities are outlined below. To deliver maximum value to the business, pick the most challenging problem you think you can tackle over the next hour and see how far you can get! Focus on just one for now. You can always complete more when you’ve finished it.
+You will be responsible for building rapid prototypes of various programs (in Python, Visual Basic or C#), fulfilling the needs of different teams across our banking company. The backlog is constantly growing to keep us at the forefront of the industry, so your immediate priorities are outlined below. To deliver maximum value to the business, pick the most challenging problem you think you can tackle over the next hour and see how far you can get! Focus on just one for now. You can always complete more when you’ve finished it.
 
 Good Luck. We’re counting on you!
 
