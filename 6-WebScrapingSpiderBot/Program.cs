@@ -10,6 +10,7 @@ namespace _6_WebScrapingSpiderBot
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
