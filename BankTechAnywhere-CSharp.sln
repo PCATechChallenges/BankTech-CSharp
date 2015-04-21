@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-CallCentreSpam", "1-CallCentreSpam\1-CallCentreSpam.csproj", "{6317C34D-6290-4893-BFEC-DF8BFC2FB53C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-KeepingTrackOfCriminals", "2-KeepingTrackOfCriminals\2-KeepingTrackOfCriminals.csproj", "{6BB9104B-EE64-4D81-8BF7-69A1D0AA7DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CryptographicPrimes", "3-CryptographicPrimes\3-CryptographicPrimes.csproj", "{66EA1FEA-DFBF-4969-8881-00C173680136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-FibonacciStockTrading", "4-FibonacciStockTrading\4-FibonacciStockTrading.csproj", "{E4CAC6F6-8438-442F-89FD-AA6F83F35B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CashierConsole", "5-CashierConsole\5-CashierConsole.csproj", "{27131BE3-70BC-4694-B844-9AEC8E466CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-WebScrapingSpiderBot", "6-WebScrapingSpiderBot\6-WebScrapingSpiderBot.csproj", "{F11B34C9-05CA-410F-9F4A-116AD261CCC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6317C34D-6290-4893-BFEC-DF8BFC2FB53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6317C34D-6290-4893-BFEC-DF8BFC2FB53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6317C34D-6290-4893-BFEC-DF8BFC2FB53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6317C34D-6290-4893-BFEC-DF8BFC2FB53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BB9104B-EE64-4D81-8BF7-69A1D0AA7DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB9104B-EE64-4D81-8BF7-69A1D0AA7DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB9104B-EE64-4D81-8BF7-69A1D0AA7DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB9104B-EE64-4D81-8BF7-69A1D0AA7DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EA1FEA-DFBF-4969-8881-00C173680136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EA1FEA-DFBF-4969-8881-00C173680136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EA1FEA-DFBF-4969-8881-00C173680136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EA1FEA-DFBF-4969-8881-00C173680136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CAC6F6-8438-442F-89FD-AA6F83F35B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CAC6F6-8438-442F-89FD-AA6F83F35B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CAC6F6-8438-442F-89FD-AA6F83F35B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CAC6F6-8438-442F-89FD-AA6F83F35B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27131BE3-70BC-4694-B844-9AEC8E466CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27131BE3-70BC-4694-B844-9AEC8E466CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27131BE3-70BC-4694-B844-9AEC8E466CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27131BE3-70BC-4694-B844-9AEC8E466CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11B34C9-05CA-410F-9F4A-116AD261CCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11B34C9-05CA-410F-9F4A-116AD261CCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11B34C9-05CA-410F-9F4A-116AD261CCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11B34C9-05CA-410F-9F4A-116AD261CCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
