@@ -19,6 +19,7 @@ namespace _1_CallCentreSpam
             foreach (var phoneNumber in numbers)
             {
                 var isSpam = phoneNumber.Contains("SPAM");
+
                 if (isSpam)
                 {
                     spamCount++;
