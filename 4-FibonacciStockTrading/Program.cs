@@ -41,12 +41,6 @@ namespace _4_FibonacciStockTrading
         }
 
 
-        //private static bool IsFibonacci(int numberToCheck)
-        //{
-            
-        //}
-
-
         /// <summary>
         /// Generates X number of fibonacci numbers from the given starting number.
         /// </summary>
