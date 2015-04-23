@@ -68,6 +68,10 @@ namespace _6_WebScrapingSpiderBot
                     Console.WriteLine("{0} appears {1} times", word.Key, word.Value);
                 }
 
+                // Can you guess what's missing?
+                // Hint: Will this be counting words for each individual site, or is it grouping it all together.
+                // How could you amend this?
+
             }
 
             Console.ReadLine();
